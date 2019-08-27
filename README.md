@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [liunx安装nodejs ,npm,cnpm](https://www.sunjuhui.top/articles/2019/08/27/1566888203251.html)
 * [docker配置远端仓库](https://www.sunjuhui.top/articles/2019/08/13/1565676539061.html)
 * [docker安装后当前用户没有权限解决办法](https://www.sunjuhui.top/articles/2019/08/13/1565675805736.html)
 * [为什么获取月份时,默认获取的格式为string](https://www.sunjuhui.top/articles/2019/07/22/1563788701809.html)
