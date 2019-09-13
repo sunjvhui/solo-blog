@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Go 字符串分割](https://www.sunjuhui.top/articles/2019/09/12/1568281919063.html)
+* [Golang数组去重&切片去重](https://www.sunjuhui.top/articles/2019/09/12/1568281838847.html)
 * [liunx安装nodejs ,npm,cnpm](https://www.sunjuhui.top/articles/2019/08/27/1566888203251.html)
 * [docker配置远端仓库](https://www.sunjuhui.top/articles/2019/08/13/1565676539061.html)
 * [docker安装后当前用户没有权限解决办法](https://www.sunjuhui.top/articles/2019/08/13/1565675805736.html)
