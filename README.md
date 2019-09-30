@@ -1,4 +1,4 @@
-<p align="center"><img alt="我走的很慢，但从不会后退" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="我走的很慢，但从不会后退" src="https://avatars0.githubusercontent.com/u/39400212?s=400&u=69339b43606df4c798a0f2a52d5c2fb7a1ae093e&v=4"></p><h2 align="center">
 我走的很慢，但从不会后退
 </h2>
 
