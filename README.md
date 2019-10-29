@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [go strings.Contains](https://www.sunjuhui.top/articles/2019/10/29/1572316172722.html)
 * [我在 GitHub 上的开源项目](https://www.sunjuhui.top/my-github-repos)
 * [leetcode mysql试题](https://www.sunjuhui.top/articles/2019/10/08/1570501995461.html)
 * [mysql left jion时，on和where](https://www.sunjuhui.top/articles/2019/10/08/1570499515583.html)
