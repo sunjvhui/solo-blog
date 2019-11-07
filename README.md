@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [goroutine](https://www.sunjuhui.top/articles/2019/11/07/1573093005570.html)
 * [go strings.Contains](https://www.sunjuhui.top/articles/2019/10/29/1572316172722.html)
 * [我在 GitHub 上的开源项目](https://www.sunjuhui.top/my-github-repos)
 * [leetcode mysql试题](https://www.sunjuhui.top/articles/2019/10/08/1570501995461.html)
