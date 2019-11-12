@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [deepin安装MySQL](https://www.sunjuhui.top/articles/2019/11/12/1573568589291.html)
 * [goroutine](https://www.sunjuhui.top/articles/2019/11/07/1573093005570.html)
 * [go strings.Contains](https://www.sunjuhui.top/articles/2019/10/29/1572316172722.html)
 * [我在 GitHub 上的开源项目](https://www.sunjuhui.top/my-github-repos)
